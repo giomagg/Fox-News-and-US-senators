@@ -52,7 +52,7 @@ Running the second regression we also found a statistically significant result a
 
 **Account connection to Fox News**
 
-_norm_connection = (absolute_connection - min(absolute_connection)) / (max(absolute_connection) - min(absolute_connection))_
+_norm_fox_score = (absolute_connection - min(absolute_connection)) / (max(absolute_connection) - min(absolute_connection))_
 
 **Account popularity** 
 
