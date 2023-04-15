@@ -5,7 +5,7 @@ This repository contains the code used in Rstudio to conduct the analysis for ou
 
 Here below we report extracts from the final paper. The information here reported in texts are not comprehensive of the overall discussion and descriptive statistical analysis conducted in the bigger analysis. They simply aim to give the reader an idea of the overall framework and findings of the project. 
 
-### Context
+## Context
 In recent years, the American conservative news outlet Fox News has increasingly taken the centre stage in the right-wing media landscape. It became one of the reference points which echoed many conspiracy theories and, more specifically, claims of former President Donald J. Trump. Fox News, together with One America News Network, InfoWars, and others became the 45th President’s personal propaganda machine confirming and amplifying the narratives he was pushing.
 
 Our study is an attempt to analyse the influence that Fox News had on US officials in the 116th senate through a quantitative analysis of tweets between 2018 and 2022. Our aim is to dive deeper into the discovery of how much polluted news organisations, such as Fox News, impact the communication of politicians on both sides of the spectrum.
