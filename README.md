@@ -12,11 +12,11 @@ The study was conducted in two parts based on 385,060 tweets of Senators in the 
 
 > ***Q<sub>1</sub>: How much does the exposure to Fox News twitter content influence the polarity of a politician's tweets?***
 
-_Average polarity of senator account = ß<sub>0</sub> + ß<sub>1</sub>·connection to fox + ß<sub>2</sub>·religion + ß<sub>3</sub>·party + ß<sub>4·popularity_
+_Average polarity of senator account = ß<sub>0</sub> + ß<sub>1</sub>·connection to fox + ß<sub>2</sub>·religion + ß<sub>3</sub>·party + ß<sub>4</sub>·popularity_
 
 > ***Q<sub>2</sub>: What is the effect of mentioning Fox News in a post on the tweets polarity?***
 
-_Tweet polarity = ß<sub>0</sub> + ß<sub>1</sub>*·connection to fox + ß<sub>2</sub>·religion + ß<sub>3</sub>·party + ß<sub>4·</sub>popularity + ß<sub>5</sub>·mentioning fox + ß<sub>6</sub>·related to fox_
+_Tweet polarity = ß<sub>0</sub> + ß<sub>1</sub>·connection to fox + ß<sub>2</sub>·religion + ß<sub>3</sub>·party + ß<sub>4·</sub>popularity + ß<sub>5</sub>·mentioning fox + ß<sub>6</sub>·related to fox_
 
 
 
