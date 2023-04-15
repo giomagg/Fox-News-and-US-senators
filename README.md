@@ -21,7 +21,7 @@ _Average polarity of senator account = ß<sub>0</sub> + ß<sub>1</sub>·connecti
 
 _Tweet polarity = ß<sub>0</sub> + ß<sub>1</sub>·connection to fox + ß<sub>2</sub>·religion + ß<sub>3</sub>·party + ß<sub>4·</sub>popularity + ß<sub>5</sub>·mentioning fox + ß<sub>6</sub>·related to fox_
 
-Polarity of a tweet – calculated usint the _spacytextblob_ python library – is a variable which ranges between -1 (= very negative) and 1 (= very positive). It measure how positive or negative a the text of a tweet is (see [SpaCy documentation][https://spacy.io/universe/project/spacy-textblob]). 
+Polarity of a tweet – calculated usint the _spacytextblob_ python library – is a variable which ranges between -1 (= very negative) and 1 (= very positive). It measure how positive or negative a the text of a tweet is (see [SpaCy documentation](https://spacy.io/universe/project/spacy-textblob])). 
 
 In trying to evaluate how much connection to Fox News influences the polarity of an account, we control for religious orientation, popularity of the account, and political party. Similarly to establish the relationship between a single tweets polarity and the connection to Fox News we again control for religious orientation, party affiliation, popularity of the account, but additionally include whether the tweet mentioned Fox News and whether it was related to Fox News.
 
