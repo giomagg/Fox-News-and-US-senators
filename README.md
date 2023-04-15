@@ -34,8 +34,10 @@ Running the second regression we also found a statistically significant result a
 
 
 #### Output Regression 2
-https://user-images.githubusercontent.com/55432992/232209643-a67e6f33-c539-41cd-acbc-ab13196aaa50.png
-
+ <div align="center"> 
+<img width="600" alt="Fig_2" src="https://user-images.githubusercontent.com/55432992/232209643-a67e6f33-c539-41cd-acbc-ab13196aaa50.png">
+ <br><br>
+</div>
 
 
 
