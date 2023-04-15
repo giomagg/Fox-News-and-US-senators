@@ -1,4 +1,4 @@
-# DigitalMedia-Democracy
+# Digital Media and Democracy – FALL 2022
 This repository contains the code used in Rstudio to conduct the analysis for out project on Fox News and politicians' tweets polarity. Also reported is a partial selection of the findings. 
 
 ## The project in a nutshell
