@@ -31,7 +31,10 @@ Running the first regression analysis we find that, first, the effect of the con
 Running the second regression we also found a statistically significant result at the 1% level and identified a negative relation between the two variables. However, in this case the model is not robust enough and it explains only 1% of the variance in the polarity of all the senators’ tweets.
 
 #### Output Regression 1 
-
+<div align="center"> 
+<img width="600" alt="Fig_2" src="https://user-images.githubusercontent.com/55432992/232209772-0bda2fe0-7b03-4518-bbf5-3f4d18c69a52.png">
+ <br><br>
+</div>
 
 #### Output Regression 2
  <div align="center"> 
@@ -39,5 +42,10 @@ Running the second regression we also found a statistically significant result a
  <br><br>
 </div>
 
+#### Visualisation
+ <div align="center"> 
+<img width="600" alt="Fig_2" src="https://user-images.githubusercontent.com/55432992/232209833-a5ca8178-0a12-4dc2-8e8f-2b269c661601.png">
+ <br><br>
+</div>
 
 
